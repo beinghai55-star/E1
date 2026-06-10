@@ -1,4 +1,4 @@
-# To-Do App
+ # To-Do App
 
 A simple and intuitive To-Do App to help you stay organized.
 
@@ -6,4 +6,12 @@ A simple and intuitive To-Do App to help you stay organized.
 
 ---
 
+## Todo List
 
+| Task | Status |
+|------|--------|
+| Do a very important task | ⭕ Pending |
+| Do a very important task | ⭕ Pending |
+| Do a very important task | ⭕ Pending |
+
+---
