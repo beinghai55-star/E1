@@ -9,6 +9,9 @@ A simple and intuitive To-Do App to help you stay organized.
 ## Todo List
 
 ○ Do a very important task
+|
+|
 ○ Do a very important task
+---
 ○ Do a very important task
 ---
