@@ -10,7 +10,7 @@ A simple and intuitive To-Do App to help you stay organized.
 
 | Task | Status |
 |------|--------|
-| Do a very important task | ⭕ Pending |
+-  Do a very important task 
 | Do a very important task | ⭕ Pending |
 | Do a very important task | ⭕ Pending |
 
