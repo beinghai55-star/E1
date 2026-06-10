@@ -5,7 +5,6 @@
 ##### Level 5 Heading
 ###### Level 6 Heading
 
-*italic text*
 
     "" bold text**
 
@@ -16,3 +15,13 @@
     2. Second Item
 
     ![Alt SKILLS Login Page](1.png)
+
+```Javascript
+ console.log("Hello,World!")
+ ```
+ - [x] Task 1
+ - [x] Task 2
+
+ ---
+
+ > This is a block quote.
